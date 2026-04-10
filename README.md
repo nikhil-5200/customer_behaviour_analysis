@@ -6,19 +6,20 @@ This project demonstrates a complete data analytics workflow, starting from raw 
 The project follows industry-standard practices, including data preprocessing, SQL-based analysis, and dashboard development, ensuring both technical accuracy and usability.
 
 Dataset
-Source: [e.g., Kaggle / Company dataset / Internal data]
-Format: CSV / Excel / Database
-Size: [e.g., 50,000 rows, 15 columns]
-Description:
-The dataset contains information related to [sales/customers/transactions/etc.], including features such as:
-Customer ID
-Product category
-Sales amount
-Date of transaction
-Region
-Objective:
+
+-Source: [e.g., Kaggle / Company dataset / Internal data]
+-Format: CSV / Excel / Database
+-Size: [e.g., 50,000 rows, 15 columns]
+-Description:
+  The dataset contains information related to [sales/customers/transactions/etc.], including         features such as:
+   -Customer ID
+   -Product category
+   -Sales amount
+   -Date of transaction
+   -Region
+-Objective:
 Analyze the dataset to identify trends, improve decision-making, and generate insights for business growth.
-Tools & Technologies
+-Tools & Technologies
 Python
 Used for data loading, cleaning, and analysis
 Libraries
