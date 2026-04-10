@@ -83,6 +83,7 @@ Business recommendations
 Data-driven conclusions
 Dashboard Preview
 
+(Add screenshots here if possible)
 
 Sales Trends Overview
 Customer Segmentation Analysis
